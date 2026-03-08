@@ -5,8 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
