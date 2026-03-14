@@ -36,9 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0137-single-number-ii) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
