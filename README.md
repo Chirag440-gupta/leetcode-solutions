@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0205-isomorphic-strings](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 ## Union-Find
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
