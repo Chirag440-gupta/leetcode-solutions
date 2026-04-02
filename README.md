@@ -53,10 +53,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
