@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0134-gas-station) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0067-add-binary) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
