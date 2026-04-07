@@ -2,10 +2,10 @@ class Solution {
     public int removeDuplicates(int[] nums) {
         int n=nums.length;
         int slw=0;
-        for(int fst=1;fst<n;fst++){
-            if(nums[fst]!=nums[slw]){
+        for(int i=1;i<n;i++){
+            if(nums[i]!=nums[slw]){
                 slw++;
-                nums[slw]=nums[fst];
+                nums[slw]=nums[i];
             }
         }
         return slw+1;
