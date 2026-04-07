@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0134-gas-station) |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
