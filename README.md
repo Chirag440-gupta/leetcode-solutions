@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0169-majority-element) |
 | [0213-house-robber-ii](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Union-Find
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
