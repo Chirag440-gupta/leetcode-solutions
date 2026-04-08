@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## Linked List
 |  |
 | ------- |
