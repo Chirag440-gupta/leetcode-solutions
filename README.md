@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Union-Find
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
