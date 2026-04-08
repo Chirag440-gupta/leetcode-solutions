@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
