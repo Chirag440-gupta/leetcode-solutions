@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
