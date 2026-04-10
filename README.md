@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
 | ------- |
