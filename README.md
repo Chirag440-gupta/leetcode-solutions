@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Math
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Sorting
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
