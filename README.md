@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Math
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
