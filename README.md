@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0401-binary-watch) |
 ## Math
 |  |
 | ------- |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
