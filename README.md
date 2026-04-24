@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -174,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
