@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0415-add-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0495-teemo-attacking) |
 ## Trie
 |  |
