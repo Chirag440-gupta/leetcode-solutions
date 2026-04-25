@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 ## Sorting
 |  |
 | ------- |
