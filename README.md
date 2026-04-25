@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0441-arranging-coins) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
 | ------- |
