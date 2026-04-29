@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0561-array-partition](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Two Pointers
 |  |
 | ------- |
