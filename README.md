@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0860-lemonade-change](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0860-lemonade-change) |
 ## Two Pointers
 |  |
 | ------- |
