@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Linked List
 |  |
 | ------- |
