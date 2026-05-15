@@ -1,16 +1,8 @@
 class Solution {
     public int fillCups(int[] amount) {
-        int s=0;
-        while(amount[0]>0 || amount[1]>0 || amount[2]>0){
-            Arrays.sort(amount);
-            if(amount[1]>0){
-                amount[1]--;
-                amount[2]--;
-            } else {
-                amount[2]--;
-            }
-            s++;
-        }
-        return s;
+        int s=amount[0]+amount[1]+amount[2];
+        int m=Math.max(amount[0], Math.max(amount[1],amount[2]));
+
+        return Math.max(m,(s+1)/2);
     }
 }
