@@ -1,18 +1,11 @@
 class Solution {
     public int minimumOperations(int[] nums) {
-        int n=nums.length;
-        int c=0;
-        Arrays.sort(nums);
-        for(int i=0;i<n;i++){
-            if(nums[i]==0) continue;
-
-            c++;
-            int v=nums[i];
-            while(i<n && nums[i]==v){
-                i++;
+        HashSet<Integer> set=new HashSet<>();
+        for(int n:nums){
+            if(n!=0){
+                set.add(n);
             }
-            i--;
         }
-        return c;
+        return set.size();
     }
 }
