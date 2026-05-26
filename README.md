@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2706-buy-two-chocolates](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
+| [2864-maximum-odd-binary-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2864-maximum-odd-binary-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2864-maximum-odd-binary-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 ## Sorting
 |  |
 | ------- |
