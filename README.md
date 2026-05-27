@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2706-buy-two-chocolates](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2578-split-with-minimum-sum](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 | [2706-buy-two-chocolates](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Linked List
 |  |
 | ------- |
