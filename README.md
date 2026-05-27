@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 ## Bit Manipulation
 |  |
 | ------- |
