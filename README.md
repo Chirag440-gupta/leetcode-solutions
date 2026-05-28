@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Union-Find
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 | [2706-buy-two-chocolates](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
