@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Union-Find
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
