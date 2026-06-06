@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2027-minimum-moves-to-convert-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1903-largest-odd-number-in-string](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2027-minimum-moves-to-convert-string](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2027-minimum-moves-to-convert-string) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
