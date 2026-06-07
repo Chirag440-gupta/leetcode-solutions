@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Union-Find
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Linked List
 |  |
 | ------- |
