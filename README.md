@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0213-house-robber-ii](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Hash Table
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0397-integer-replacement](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0561-array-partition) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0461-hamming-distance) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
