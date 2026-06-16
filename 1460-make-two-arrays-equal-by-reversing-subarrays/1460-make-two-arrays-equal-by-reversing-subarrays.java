@@ -1,11 +1,15 @@
 class Solution {
     public boolean canBeEqual(int[] target, int[] arr) {
-        if(target.length!=arr.length) return false;
-        int n=arr.length;
-        boolean ans=true;
-        Arrays.sort(target);
-        Arrays.sort(arr);
-
-       return Arrays.equals(target,arr);
+        int[] freq=new int[1001];
+        for(int  n:target){
+            freq[n]++;
+        }
+        for(int n:arr){
+            freq[n]--;
+        }
+        for(int c:freq){
+            if(c!=0) return false;
+        }
+        return true;
     }
 }
