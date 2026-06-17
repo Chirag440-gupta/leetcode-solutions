@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
 |  |
