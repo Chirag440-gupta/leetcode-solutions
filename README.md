@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
