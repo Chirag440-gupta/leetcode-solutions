@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
