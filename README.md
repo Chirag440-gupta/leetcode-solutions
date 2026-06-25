@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1859-sorting-the-sentence](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
