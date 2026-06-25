@@ -1,6 +1,5 @@
 class Solution {
     public int maxProductDifference(int[] nums) {
-        Arrays.sort(nums);
         int n=nums.length;
       int min1=Integer.MAX_VALUE;
       int min2=Integer.MAX_VALUE;
