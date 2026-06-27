@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1051-height-checker](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1051-height-checker) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0942-di-string-match) |
+| [0977-squares-of-a-sorted-array](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0976-largest-perimeter-triangle](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1122-relative-sort-array) |
