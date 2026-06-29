@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2578-split-with-minimum-sum](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 | [2706-buy-two-chocolates](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
