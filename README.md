@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2418-sort-the-people) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1859-sorting-the-sentence](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
