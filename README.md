@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0213-house-robber-ii](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -471,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
