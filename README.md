@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2465-number-of-distinct-averages](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2465-number-of-distinct-averages](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2784-check-if-array-is-good](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2465-number-of-distinct-averages](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2465-number-of-distinct-averages](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2465-number-of-distinct-averages) |
 | [2578-split-with-minimum-sum](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2578-split-with-minimum-sum) |
 | [2706-buy-two-chocolates](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Chirag440-gupta/leetcode-solutions/tree/master/2733-neither-minimum-nor-maximum) |
